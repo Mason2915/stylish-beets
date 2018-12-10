@@ -1,0 +1,126 @@
+html {
+  font-family: "PT Serif";
+  background-color: #c9b5ab;
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  font-family: "PT Sans";
+  font-size: 1.5rem;
+  color: #3f1622;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+a {
+  color: #8f2440;
+  font-size: 1.125rem;
+  text-decoration: underline;
+  font-weight: normal;
+  list-style-type: none;
+}
+
+.lii:hover {
+  color: #8f2440;
+  font-size: 1.125rem;
+  text-decoration: underline;
+  font-weight: bold;
+  list-style-type: none;
+  font-family: "PT Sans";
+}
+
+.l {
+  color: #8f2440;
+  list-style-type: none;
+  font-weight: bold;
+  font-family: "PT Sans";
+}
+
+h2 {
+  font-family: "PT Sans";
+  font-weight: bold;
+  font-size: 1.5rem;
+  list-style-type: none;
+}
+
+.p1 {
+  font-style: italic;
+  text-align: center;
+  font-size: .8rem;
+  font-weight: normal;
+  color: #222;
+  list-style-type: none;
+}
+
+.p2 {
+  font-family: PT, Sans;
+  font-size: 1.125rem;
+  font-weight: bold;
+  color: #222;
+  list-style-type: none;
+}
+
+.p3 {
+  font-family: PT, serif;
+  color: #222;
+  font-weight: normal;
+  font-size: 1.125rem;
+  list-style-type: none;
+}
+
+.p5 {
+  font-family: PT, serif;
+  font-size: 1.5rem;
+  text-align: center;
+  font-style: italic;
+  font-weight: normal;
+  color: #222;
+  list-style-type: none;
+}
+
+.p4 {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 1.125rem;
+  color: #222;
+  list-style-type: none;
+}
+
+ul li {
+  font-size: .8rem;
+  color: #222;
+  font-weight: normal;
+  list-style-type: none;
+}
+
+.dt1 {
+  font-style: italic;
+  font-size: .8rem;
+  font-weight: normal;
+  list-style-type: none;
+}
+
+.dt2 {
+  font-size: 1.125rem;
+  font-family: PT, serif;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.dt3 {
+  font-size: 1.125rem;
+  font-family: PT, serif;
+  font-weight: normal;
+  list-style-type: none;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+  font-weight: normal;
+  list-style-type: none;
+}
